@@ -51,7 +51,7 @@ GPU模式碰撞成功：
 <br>
 
 ## 视频教程
-📺[YouTube](https://youtu.be/gW9lsRLgQwk)    📺[哔哩哔哩](https://privatekeys.pw/puzzles/bitcoin-puzzle-tx)
+📺[YouTube](https://youtu.be/gW9lsRLgQwk)    📺[哔哩哔哩](https://youtu.be/gW9lsRLgQwk)
 
 <br>
 
@@ -104,6 +104,11 @@ GPU：
 
 单公钥、多公钥模式速度为上述速度的4-10倍。
 ````
+
+<br>
+
+## 下载软件
+[点击下载软件](https://github.com/sakurabtc888/1000_BTC_Bitcoin_Challenge/releases) 
 
 <br>
 
