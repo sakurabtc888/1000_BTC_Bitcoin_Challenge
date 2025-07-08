@@ -1,5 +1,7 @@
 ## 1000 BTC Bitcoin Challenge
 
+[v1.09更新记录](https://github.com/sakurabtc888/1000_BTC_Bitcoin_Challenge/blob/main/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95.txt)
+
 CPU模式：
 ![](https://github.com/sakurabtc888/1000_BTC_Bitcoin_Challenge/blob/main/1.png)
 
