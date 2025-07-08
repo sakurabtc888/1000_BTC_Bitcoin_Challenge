@@ -1,0 +1,6 @@
+v1.09更新说明：
+无法从URL获取数据，新增获取本地web.txt数据
+手动更新web.txt数据方法：
+1、浏览器打开网页：https://privatekeys.pw/puzzles/bitcoin-puzzle-tx?status=all
+2、右键 - 查看页面源代码 - Ctrl+A全选 - Ctrl+C复制
+3、使用记事本打开软件运行目录下的web.txt - Ctrl+A全选 - Ctrl+V粘贴替换 - 保存 - 关闭软件，再次打开软件自动读取更新后的web.txt数据。
